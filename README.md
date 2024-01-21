@@ -13,13 +13,10 @@ step 2:
       components: 1. aurduino uno 2. compim 3. Virtual terminal ,  add .hex file to aurduino 
 
 step3:
-
-      write code for pc side and save with the.py extension 
+     write code for pc side and save with the.py extension 
 
 step4: 
-
      simulate circuit in Proteus, open command prompt and run the python file
 
 step5: 
-
-         We get the results from our command prompt.
+      We get the results from our command prompt.
