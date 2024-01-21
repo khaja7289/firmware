@@ -4,13 +4,12 @@ used softwares in this project
 2. arduino IDE
 3. virtual serial port driver
 
-step 1: 
-
-write code for mcu in arduino IDE and convert to  .hex file
+step 1: write code for mcu in arduino IDE and convert to  .hex file
 
 step 2:
       create circuit in proteus
       components: 1. aurduino uno 2. compim 3. Virtual terminal ,  add .hex file to aurduino 
+![Uploading Screenshot (224).png…]()
 
 step3:
      write code for pc side and save with the.py extension 
