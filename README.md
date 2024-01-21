@@ -1,6 +1,6 @@
 # firmware
 
-i use softwares
+used softwares in this project
 
 1. proteus
 2. arduino IDE
@@ -35,3 +35,7 @@ step5:
          
          ![Screenshot (221)](https://github.com/khaja7289/firmware/assets/122887258/30f12bda-71c8-4eaf-b30a-323b84823c82)
 
+in video folder I attach video file go through it 
+
+
+thank you
